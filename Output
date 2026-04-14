@@ -1,0 +1,39 @@
+//output 
+
+Enter number of players: 3
+Enter player name: Rahul
+Enter score: 50
+Enter player name: Aman
+Enter score: 80
+Enter player name: Sita
+Enter score: 65
+
+Game Scoreboard
+Rank    Player Name    Score
+1       Aman           80
+2       Sita           65
+3       Rahul          50
+
+Top Player: Aman
+
+
+
+
+Enter number of players: 4
+Enter player name: Rohan
+Enter score: 90
+Enter player name: Mohit
+Enter score: 75
+Enter player name: Neha
+Enter score: 95
+Enter player name: Pooja
+Enter score: 60
+
+Game Scoreboard
+Rank    Player Name    Score
+1       Neha           95
+2       Rohan          90
+3       Mohit          75
+4       Pooja          60
+
+Top Player: Neha
